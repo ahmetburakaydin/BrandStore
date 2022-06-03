@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" >
+    <listeners>
+        <listener class-name="hooks.Listener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="ChromeBrowser">
+        <parameter name="browser" value="CHROME"/>
+        <classes>
+            <class name="singleFeatureRunners.SearchPageRunner"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="EdgeBrowser">
+        <parameter name="browser" value="EDGE"/>
+        <classes>
+            <class name="singleFeatureRunners.SearchPageRunner"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="FirefoxBrowser">
+        <parameter name="browser" value="FIREFOX"/>
+        <classes>
+            <class name="singleFeatureRunners.SearchPageRunner"/>
+        </classes>
+    </test>
+</suite>

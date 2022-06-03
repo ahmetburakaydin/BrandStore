@@ -1,0 +1,596 @@
+2022-06-02 17:50:14 INFO  Logger1:36 - Test Started
+2022-06-02 17:50:22 INFO  Logger1:50 - SCENARIO : 'add product to cart from main page' - is started
+2022-06-02 17:50:28 INFO  Logger1:16 - user on home page
+2022-06-02 17:50:28 INFO  Logger1:12 - notice has accepted
+2022-06-02 17:51:18 INFO  Logger1:69 - SCENARIO : add product to cart from main page - is over
+2022-06-02 17:51:22 INFO  Logger1:50 - SCENARIO : 'add product to cart from all catagoeries' - is started
+2022-06-02 17:51:28 INFO  Logger1:16 - user on home page
+2022-06-02 17:51:28 INFO  Logger1:12 - notice has accepted
+2022-06-02 17:52:08 ERROR Logger1:63 - SCENARIO : add product to cart from all catagoeries - is FAILED
+2022-06-02 17:52:08 INFO  Logger1:69 - SCENARIO : add product to cart from all catagoeries - is over
+2022-06-02 17:52:12 INFO  Logger1:50 - SCENARIO : 'add product to cart from product display page' - is started
+2022-06-02 17:52:21 INFO  Logger1:16 - user on home page
+2022-06-02 17:52:22 INFO  Logger1:12 - notice has accepted
+2022-06-02 17:53:43 INFO  Logger1:69 - SCENARIO : add product to cart from product display page - is over
+2022-06-02 17:53:48 INFO  Logger1:50 - SCENARIO : 'update random product's count in main cart' - is started
+2022-06-02 17:53:55 INFO  Logger1:16 - user on home page
+2022-06-02 17:53:56 INFO  Logger1:12 - notice has accepted
+2022-06-02 17:55:00 INFO  Logger1:69 - SCENARIO : update random product's count in main cart - is over
+2022-06-02 17:55:04 INFO  Logger1:50 - SCENARIO : 'remove all product in main cart' - is started
+2022-06-02 17:55:11 INFO  Logger1:16 - user on home page
+2022-06-02 17:55:12 INFO  Logger1:12 - notice has accepted
+2022-06-02 17:56:42 INFO  Logger1:69 - SCENARIO : remove all product in main cart - is over
+2022-06-02 17:56:43 INFO  Logger1:83 - Test is Over
+2022-06-02 18:17:21 INFO  Logger1:36 - Test Started
+2022-06-02 18:17:35 INFO  Logger1:50 - SCENARIO : 'add product to cart from main page' - is started
+2022-06-02 18:17:44 INFO  Logger1:16 - user on home page
+2022-06-02 18:17:45 INFO  Logger1:12 - notice has accepted
+2022-06-02 18:18:34 ERROR Logger1:63 - SCENARIO : add product to cart from main page - is FAILED
+2022-06-02 18:18:34 INFO  Logger1:69 - SCENARIO : add product to cart from main page - is over
+2022-06-02 18:18:35 INFO  Logger1:83 - Test is Over
+2022-06-02 18:36:55 INFO  Logger1:36 - Test Started
+2022-06-02 18:37:09 INFO  Logger1:50 - SCENARIO : 'add product to cart from main page' - is started
+2022-06-02 18:37:18 INFO  Logger1:16 - user on home page
+2022-06-02 18:37:19 INFO  Logger1:12 - notice has accepted
+2022-06-02 18:38:10 INFO  Logger1:69 - SCENARIO : add product to cart from main page - is over
+2022-06-02 18:38:12 INFO  Logger1:83 - Test is Over
+2022-06-03 11:19:48 INFO  Logger1:27 - Test is started
+2022-06-03 11:19:53 INFO  Logger1:35 - Test Started
+2022-06-03 11:19:53 INFO  Logger1:78 - Test is Over
+2022-06-03 11:19:53 INFO  Logger1:33 - Test is over
+2022-06-03 11:20:52 INFO  Logger1:27 - Test is started
+2022-06-03 11:20:57 INFO  Logger1:35 - Test Started
+2022-06-03 11:20:57 INFO  Logger1:78 - Test is Over
+2022-06-03 11:20:57 INFO  Logger1:33 - Test is over
+2022-06-03 12:35:23 INFO  Logger1:46 -  on Start
+2022-06-03 12:35:28 INFO  Logger1:30 - Test Started
+2022-06-03 12:35:28 INFO  Logger1:26 - on Test Start
+2022-06-03 12:35:39 INFO  Logger1:42 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 12:35:45 INFO  Logger1:16 - user on home page
+2022-06-03 12:35:47 INFO  Logger1:12 - notice has accepted
+2022-06-03 12:35:49 INFO  Logger1:56 - SCENARIO : verify all images on main page - is over
+2022-06-03 12:35:50 INFO  Logger1:31 -  on Test Success
+2022-06-03 12:35:51 INFO  Logger1:73 - Test is Over
+2022-06-03 12:35:51 INFO  Logger1:51 -  on Finish
+2022-06-03 12:35:51 INFO  Logger1:46 -  on Start
+2022-06-03 12:35:51 INFO  Logger1:30 - Test Started
+2022-06-03 12:35:51 INFO  Logger1:26 - on Test Start
+2022-06-03 12:35:54 INFO  Logger1:42 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 12:35:58 INFO  Logger1:16 - user on home page
+2022-06-03 12:35:59 INFO  Logger1:12 - notice has accepted
+2022-06-03 12:36:00 INFO  Logger1:56 - SCENARIO : verify all images on main page - is over
+2022-06-03 12:36:01 INFO  Logger1:31 -  ron Test Success
+                                                   2022-06-03 12:36:01 INFO  Logger1:73 - Test is Ove
+2022-06-03 12:36:02 INFO  Logger1:51 -  on Finish
+2022-06-03 15:12:42 INFO  Logger1:47 -  on Start
+2022-06-03 15:12:43 INFO  Logger1:52 -  on Finish
+2022-06-03 15:12:43 INFO  Logger1:47 -  on Start
+2022-06-03 15:12:43 INFO  Logger1:52 -  on Finish
+2022-06-03 15:13:33 INFO  Logger1:47 -  on Start
+2022-06-03 15:13:39 INFO  Logger1:32 - Test Started
+2022-06-03 15:13:39 INFO  Logger1:27 - on Test Start
+2022-06-03 15:13:53 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 15:14:08 INFO  Logger1:16 - user on home page
+2022-06-03 15:14:08 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:14:10 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 15:14:12 INFO  Logger1:32 -  on Test Success
+2022-06-03 15:14:12 INFO  Logger1:75 - Test is Over
+2022-06-03 15:14:12 INFO  Logger1:52 -  on Finish
+2022-06-03 15:14:12 INFO  Logger1:47 -  on Start
+2022-06-03 15:14:13 INFO  Logger1:32 - Test Started
+2022-06-03 15:14:13 INFO  Logger1:27 - on Test Start
+2022-06-03 15:14:16 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 15:14:24 INFO  Logger1:16 - user on home page
+2022-06-03 15:14:25 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:14:26 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 15:14:27 INFO  Logger1:32 -  on Test Success
+2022-06-03 15:14:27 INFO  Logger1:75 - Test is Over
+2022-06-03 15:14:27 INFO  Logger1:52 -  on Finish
+2022-06-03 15:34:16 INFO  Logger1:47 -  on Start
+2022-06-03 15:34:36 INFO  Logger1:32 - Test Started
+2022-06-03 15:34:36 INFO  Logger1:27 - on Test Start
+2022-06-03 15:34:37 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 15:34:43 INFO  Logger1:16 - user on home page
+2022-06-03 15:34:43 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:34:45 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 15:34:47 INFO  Logger1:32 -  on Test Success
+2022-06-03 15:34:47 INFO  Logger1:75 - Test is Over
+2022-06-03 15:34:47 INFO  Logger1:52 -  on Finish
+2022-06-03 15:34:48 INFO  Logger1:47 -  on Start
+2022-06-03 15:34:51 INFO  Logger1:32 - Test Started
+2022-06-03 15:34:51 INFO  Logger1:27 - on Test Start
+2022-06-03 15:34:53 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 15:35:01 INFO  Logger1:16 - user on home page
+2022-06-03 15:35:01 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:35:03 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 15:35:04 INFO  Logger1:32 -  on Test Success
+2022-06-03 15:35:04 INFO  Logger1:75 - Test is Over
+2022-06-03 15:35:04 INFO  Logger1:52 -  on Finish
+2022-06-03 15:42:49 INFO  Logger1:47 -  on Start
+2022-06-03 15:42:54 INFO  Logger1:32 - Test Started
+2022-06-03 15:43:07 INFO  Logger1:27 - on Test Start
+2022-06-03 15:43:07 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 15:43:13 INFO  Logger1:16 - user on home page
+2022-06-03 15:43:13 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:43:15 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 15:43:15 INFO  Logger1:32 -  on Test Success
+2022-06-03 15:43:15 INFO  Logger1:75 - Test is Over
+2022-06-03 15:43:15 INFO  Logger1:52 -  on Finish
+2022-06-03 15:43:15 INFO  Logger1:47 -  on Start
+2022-06-03 15:43:15 INFO  Logger1:32 - Test Started
+2022-06-03 15:43:15 INFO  Logger1:27 - on Test Start
+2022-06-03 15:43:16 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 15:43:18 INFO  Logger1:16 - user on home page
+2022-06-03 15:43:38 ERROR Logger1:55 - SCENARIO : verify all images on main page - is FAILED
+2022-06-03 15:43:39 INFO  Logger1:37 -  on Test Failure
+2022-06-03 15:43:39 INFO  Logger1:75 - Test is Over
+2022-06-03 15:43:39 INFO  Logger1:52 -  on Finish
+2022-06-03 15:51:55 INFO  Logger1:16 - user on home page
+2022-06-03 15:51:56 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:52:27 INFO  Logger1:16 - user on home page
+2022-06-03 15:52:28 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:52:51 INFO  Logger1:16 - user on home page
+2022-06-03 15:52:52 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:55:55 INFO  Logger1:16 - user on home page
+2022-06-03 15:55:56 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:56:23 INFO  Logger1:16 - user on home page
+2022-06-03 15:56:24 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:57:00 INFO  Logger1:16 - user on home page
+2022-06-03 15:57:00 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:58:52 INFO  Logger1:16 - user on home page
+2022-06-03 15:58:52 INFO  Logger1:12 - notice has accepted
+2022-06-03 15:59:27 INFO  Logger1:16 - user on home page
+2022-06-03 15:59:28 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:00:01 INFO  Logger1:16 - user on home page
+2022-06-03 16:00:01 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:08:54 INFO  Logger1:16 - user on home page
+2022-06-03 16:08:55 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:10:31 INFO  Logger1:16 - user on home page
+2022-06-03 16:10:33 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:12:47 INFO  Logger1:16 - user on home page
+2022-06-03 16:12:48 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:24:56 INFO  Logger1:47 -  on Start
+2022-06-03 16:25:19 INFO  Logger1:32 - Test Started
+2022-06-03 16:25:19 INFO  Logger1:27 - on Test Start
+2022-06-03 16:25:19 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 16:26:22 INFO  Logger1:16 - user on home page
+2022-06-03 16:26:22 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:26:24 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 16:26:25 INFO  Logger1:32 -  on Test Success
+2022-06-03 16:26:25 INFO  Logger1:75 - Test is Over
+2022-06-03 16:26:25 INFO  Logger1:52 -  on Finish
+2022-06-03 16:26:25 INFO  Logger1:47 -  on Start
+2022-06-03 16:26:26 INFO  Logger1:32 - Test Started
+2022-06-03 16:26:26 INFO  Logger1:27 - on Test Start
+2022-06-03 16:26:27 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 16:26:35 INFO  Logger1:16 - user on home page
+2022-06-03 16:26:55 ERROR Logger1:55 - SCENARIO : verify all images on main page - is FAILED
+2022-06-03 16:26:56 ERROR Logger1:37 -  on Test Failure
+2022-06-03 16:26:56 INFO  Logger1:75 - Test is Over
+2022-06-03 16:26:56 INFO  Logger1:52 -  on Finish
+2022-06-03 16:30:06 INFO  Logger1:47 -  on Start
+2022-06-03 16:30:43 INFO  Logger1:32 - Test Started
+2022-06-03 16:30:43 INFO  Logger1:27 - on Test Start
+2022-06-03 16:30:43 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 16:32:40 INFO  Logger1:16 - user on home page
+2022-06-03 16:32:41 INFO  Logger1:12 - notice has accepted
+2022-06-03 16:32:43 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 16:32:43 INFO  Logger1:32 -  on Test Success
+2022-06-03 16:32:43 INFO  Logger1:75 - Test is Over
+2022-06-03 16:32:43 INFO  Logger1:52 -  on Finish
+2022-06-03 16:32:43 INFO  Logger1:47 -  on Start
+2022-06-03 16:32:44 INFO  Logger1:32 - Test Started
+2022-06-03 16:32:44 INFO  Logger1:27 - on Test Start
+2022-06-03 16:32:44 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 16:33:12 INFO  Logger1:16 - user on home page
+2022-06-03 16:33:32 ERROR Logger1:55 - SCENARIO : verify all images on main page - is FAILED
+2022-06-03 16:33:32 ERROR Logger1:37 -  on Test Failure
+2022-06-03 16:33:33 INFO  Logger1:75 - Test is Over
+2022-06-03 16:33:33 INFO  Logger1:52 -  on Finish
+2022-06-03 18:13:26 INFO  Logger1:32 - Test Started
+2022-06-03 18:14:04 INFO  Logger1:32 - Test Started
+2022-06-03 18:14:13 INFO  Logger1:44 - SCENARIO : 'purchase product from main cart with logged in user' - is started
+2022-06-03 18:15:13 INFO  Logger1:16 - user on home page
+2022-06-03 18:15:18 ERROR Logger1:55 - SCENARIO : purchase product from main cart with logged in user - is FAILED
+2022-06-03 18:16:33 INFO  Logger1:32 - Test Started
+2022-06-03 18:16:41 INFO  Logger1:44 - SCENARIO : 'purchase product from main cart with logged in user' - is started
+2022-06-03 18:16:46 INFO  Logger1:16 - user on home page
+2022-06-03 18:16:47 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:16:50 INFO  Logger1:21 - user goes to login page
+2022-06-03 18:16:51 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 18:16:51 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 18:16:54 INFO  Logger1:30 - user click submit button
+2022-06-03 18:18:47 INFO  Logger1:58 - SCENARIO : purchase product from main cart with logged in user - is over
+2022-06-03 18:18:53 INFO  Logger1:44 - SCENARIO : 'purchase product from mini cart with guest user' - is started
+2022-06-03 18:19:02 INFO  Logger1:16 - user on home page
+2022-06-03 18:19:02 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:22:43 ERROR Logger1:55 - SCENARIO : purchase product from mini cart with guest user - is FAILED
+2022-06-03 18:22:45 INFO  Logger1:75 - Test is Over
+2022-06-03 18:22:46 INFO  Logger1:32 - Test Started
+2022-06-03 18:22:52 INFO  Logger1:44 - SCENARIO : 'add same product two times to Comparison List' - is started
+2022-06-03 18:23:49 INFO  Logger1:16 - user on home page
+2022-06-03 18:23:49 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:24:36 INFO  Logger1:58 - SCENARIO : add same product two times to Comparison List - is over
+2022-06-03 18:24:41 INFO  Logger1:44 - SCENARIO : 'add two products to Comparison List' - is started
+2022-06-03 18:24:48 INFO  Logger1:16 - user on home page
+2022-06-03 18:24:49 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:25:36 INFO  Logger1:58 - SCENARIO : add two products to Comparison List - is over
+2022-06-03 18:25:41 INFO  Logger1:44 - SCENARIO : 'remove all products from comparison list' - is started
+2022-06-03 18:25:50 INFO  Logger1:16 - user on home page
+2022-06-03 18:25:50 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:27:26 INFO  Logger1:58 - SCENARIO : remove all products from comparison list - is over
+2022-06-03 18:27:27 INFO  Logger1:75 - Test is Over
+2022-06-03 18:31:41 INFO  Logger1:32 - Test Started
+2022-06-03 18:31:48 INFO  Logger1:44 - SCENARIO : 'add same product two times to Comparison List' - is started
+2022-06-03 18:31:56 INFO  Logger1:16 - user on home page
+2022-06-03 18:31:57 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:33:49 INFO  Logger1:16 - user on home page
+2022-06-03 18:33:50 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:33:52 INFO  Logger1:16 - user on home page
+2022-06-03 18:33:53 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:35:11 INFO  Logger1:16 - user on home page
+2022-06-03 18:35:11 INFO  Logger1:16 - user on home page
+2022-06-03 18:35:12 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:35:12 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:36:16 INFO  Logger1:16 - user on home page
+2022-06-03 18:36:18 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:36:26 INFO  Logger1:16 - user on home page
+2022-06-03 18:36:27 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:42:34 INFO  Logger1:16 - user on home page
+2022-06-03 18:42:35 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:42:38 INFO  Logger1:16 - user on home page
+2022-06-03 18:42:39 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:44:21 INFO  Logger1:16 - user on home page
+2022-06-03 18:44:21 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:44:32 INFO  Logger1:16 - user on home page
+2022-06-03 18:44:33 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:46:13 INFO  Logger1:16 - user on home page
+2022-06-03 18:46:14 INFO  Logger1:12 - notice has accepted
+2022-06-03 18:46:35 INFO  Logger1:16 - user on home page
+2022-06-03 18:46:36 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:03:27 INFO  Logger1:16 - user on home page
+2022-06-03 19:03:27 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:03:32 INFO  Logger1:16 - user on home page
+2022-06-03 19:21:20 INFO  Logger1:16 - user on home page
+2022-06-03 19:21:20 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:21:24 INFO  Logger1:16 - user on home page
+2022-06-03 19:21:48 INFO  Logger1:16 - user on home page
+2022-06-03 19:22:11 INFO  Logger1:16 - user on home page
+2022-06-03 19:22:34 INFO  Logger1:16 - user on home page
+2022-06-03 19:22:57 INFO  Logger1:16 - user on home page
+2022-06-03 19:23:20 INFO  Logger1:16 - user on home page
+2022-06-03 19:23:44 INFO  Logger1:16 - user on home page
+2022-06-03 19:24:25 INFO  Logger1:16 - user on home page
+2022-06-03 19:24:26 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:24:30 INFO  Logger1:16 - user on home page
+2022-06-03 19:24:53 INFO  Logger1:16 - user on home page
+2022-06-03 19:28:05 INFO  Logger1:16 - user on home page
+2022-06-03 19:28:06 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:28:14 INFO  Logger1:16 - user on home page
+2022-06-03 19:42:15 INFO  Logger1:16 - user on home page
+2022-06-03 19:42:15 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:42:27 INFO  Logger1:16 - user on home page
+2022-06-03 19:43:51 INFO  Logger1:16 - user on home page
+2022-06-03 19:43:51 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:43:59 INFO  Logger1:16 - user on home page
+2022-06-03 19:44:23 INFO  Logger1:16 - user on home page
+2022-06-03 19:44:47 INFO  Logger1:16 - user on home page
+2022-06-03 19:45:11 INFO  Logger1:16 - user on home page
+2022-06-03 19:46:31 INFO  Logger1:16 - user on home page
+2022-06-03 19:46:31 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:46:36 INFO  Logger1:16 - user on home page
+2022-06-03 19:49:54 INFO  Logger1:32 - Test Started
+2022-06-03 19:50:02 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 19:50:10 INFO  Logger1:16 - user on home page
+2022-06-03 19:50:11 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:50:15 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 19:50:19 INFO  Logger1:44 - SCENARIO : 'login website' - is started
+2022-06-03 19:50:25 INFO  Logger1:16 - user on home page
+2022-06-03 19:50:26 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:50:32 INFO  Logger1:21 - user goes to login page
+2022-06-03 19:50:32 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 19:50:33 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 19:50:37 INFO  Logger1:30 - user click submit button
+2022-06-03 19:50:37 INFO  Logger1:37 - My Account Section is verified after is logged in 
+2022-06-03 19:50:37 INFO  Logger1:58 - SCENARIO : login website - is over
+2022-06-03 19:50:41 INFO  Logger1:44 - SCENARIO : 'verify all images and prices on all products page' - is started
+2022-06-03 19:50:47 INFO  Logger1:16 - user on home page
+2022-06-03 19:50:47 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:51:03 INFO  Logger1:58 - SCENARIO : verify all images and prices on all products page - is over
+2022-06-03 19:51:06 INFO  Logger1:44 - SCENARIO : 'verify dropdown menu on all products' - is started
+2022-06-03 19:51:12 INFO  Logger1:16 - user on home page
+2022-06-03 19:51:12 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:51:26 ERROR Logger1:55 - SCENARIO : verify dropdown menu on all products - is FAILED
+2022-06-03 19:51:30 INFO  Logger1:44 - SCENARIO : 'verify sorting section on all products' - is started
+2022-06-03 19:51:37 INFO  Logger1:16 - user on home page
+2022-06-03 19:51:37 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:51:54 INFO  Logger1:58 - SCENARIO : verify sorting section on all products - is over
+2022-06-03 19:51:58 INFO  Logger1:44 - SCENARIO : 'filter all products by price' - is started
+2022-06-03 19:52:04 INFO  Logger1:16 - user on home page
+2022-06-03 19:52:04 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:52:19 INFO  Logger1:58 - SCENARIO : filter all products by price - is over
+2022-06-03 19:52:22 INFO  Logger1:44 - SCENARIO : 'filter all products by color' - is started
+2022-06-03 19:52:29 INFO  Logger1:16 - user on home page
+2022-06-03 19:52:29 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:53:22 INFO  Logger1:58 - SCENARIO : filter all products by color - is over
+2022-06-03 19:53:27 INFO  Logger1:44 - SCENARIO : 'filter all products by size' - is started
+2022-06-03 19:53:33 INFO  Logger1:16 - user on home page
+2022-06-03 19:53:33 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:54:33 INFO  Logger1:58 - SCENARIO : filter all products by size - is over
+2022-06-03 19:54:38 INFO  Logger1:44 - SCENARIO : 'filter all products by material' - is started
+2022-06-03 19:54:43 INFO  Logger1:16 - user on home page
+2022-06-03 19:54:44 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:55:49 INFO  Logger1:58 - SCENARIO : filter all products by material - is over
+2022-06-03 19:55:52 INFO  Logger1:44 - SCENARIO : 'filter product by gender' - is started
+2022-06-03 19:55:59 INFO  Logger1:16 - user on home page
+2022-06-03 19:55:59 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:57:30 INFO  Logger1:58 - SCENARIO : filter product by gender - is over
+2022-06-03 19:57:33 INFO  Logger1:44 - SCENARIO : 'Display random two product and validate on recently viewed section as a registered user' - is started
+2022-06-03 19:57:41 INFO  Logger1:16 - user on home page
+2022-06-03 19:57:42 INFO  Logger1:12 - notice has accepted
+2022-06-03 19:57:48 INFO  Logger1:21 - user goes to login page
+2022-06-03 19:57:48 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 19:57:48 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 19:57:52 INFO  Logger1:30 - user click submit button
+2022-06-03 19:58:23 INFO  Logger1:58 - SCENARIO : Display random two product and validate on recently viewed section as a registered user - is over
+2022-06-03 19:58:24 INFO  Logger1:73 - Test is Over
+2022-06-03 20:28:05 INFO  Logger1:32 - Test Started
+2022-06-03 20:28:15 INFO  Logger1:44 - SCENARIO : 'login website' - is started
+2022-06-03 20:28:21 INFO  Logger1:16 - user on home page
+2022-06-03 20:28:21 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:28:27 INFO  Logger1:21 - user goes to login page
+2022-06-03 20:28:27 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 20:28:27 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 20:28:30 INFO  Logger1:30 - user click submit button
+2022-06-03 20:28:30 INFO  Logger1:37 - My Account Section is verified after is logged in 
+2022-06-03 20:28:31 INFO  Logger1:58 - SCENARIO : login website - is over
+2022-06-03 20:28:32 INFO  Logger1:73 - Test is Over
+2022-06-03 20:42:09 INFO  Logger1:32 - Test Started
+2022-06-03 20:42:18 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 20:42:26 INFO  Logger1:16 - user on home page
+2022-06-03 20:42:27 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:42:28 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 20:42:33 INFO  Logger1:44 - SCENARIO : 'login website' - is started
+2022-06-03 20:42:40 INFO  Logger1:16 - user on home page
+2022-06-03 20:42:41 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:42:46 INFO  Logger1:21 - user goes to login page
+2022-06-03 20:42:46 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 20:42:46 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 20:42:50 INFO  Logger1:30 - user click submit button
+2022-06-03 20:42:50 INFO  Logger1:37 - My Account Section is verified after is logged in 
+2022-06-03 20:42:50 INFO  Logger1:58 - SCENARIO : login website - is over
+2022-06-03 20:42:55 INFO  Logger1:44 - SCENARIO : 'verify all images and prices on all products page' - is started
+2022-06-03 20:43:36 INFO  Logger1:32 - Test Started
+2022-06-03 20:43:36 INFO  Logger1:32 - Test Started
+2022-06-03 20:43:36 INFO  Logger1:73 - Test is Over
+2022-06-03 20:43:46 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 20:43:53 INFO  Logger1:16 - user on home page
+2022-06-03 20:43:54 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:43:56 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 20:44:02 INFO  Logger1:44 - SCENARIO : 'login website' - is started
+2022-06-03 20:44:11 INFO  Logger1:16 - user on home page
+2022-06-03 20:44:12 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:44:20 INFO  Logger1:21 - user goes to login page
+2022-06-03 20:44:21 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 20:44:22 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 20:44:29 INFO  Logger1:30 - user click submit button
+2022-06-03 20:44:30 INFO  Logger1:37 - My Account Section is verified after is logged in 
+2022-06-03 20:44:30 INFO  Logger1:58 - SCENARIO : login website - is over
+2022-06-03 20:44:36 INFO  Logger1:44 - SCENARIO : 'verify all images and prices on all products page' - is started
+2022-06-03 20:44:47 INFO  Logger1:16 - user on home page
+2022-06-03 20:44:47 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:45:09 INFO  Logger1:58 - SCENARIO : verify all images and prices on all products page - is over
+2022-06-03 20:45:13 INFO  Logger1:44 - SCENARIO : 'verify dropdown menu on all products' - is started
+2022-06-03 20:45:20 INFO  Logger1:16 - user on home page
+2022-06-03 20:45:21 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:45:37 INFO  Logger1:58 - SCENARIO : verify dropdown menu on all products - is over
+2022-06-03 20:45:41 INFO  Logger1:44 - SCENARIO : 'verify sorting section on all products' - is started
+2022-06-03 20:45:50 INFO  Logger1:16 - user on home page
+2022-06-03 20:45:51 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:46:02 INFO  Logger1:58 - SCENARIO : verify sorting section on all products - is over
+2022-06-03 20:46:07 INFO  Logger1:44 - SCENARIO : 'filter all products by price' - is started
+2022-06-03 20:46:15 INFO  Logger1:16 - user on home page
+2022-06-03 20:46:15 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:46:37 INFO  Logger1:58 - SCENARIO : filter all products by price - is over
+2022-06-03 20:46:44 INFO  Logger1:44 - SCENARIO : 'filter all products by color' - is started
+2022-06-03 20:46:56 INFO  Logger1:16 - user on home page
+2022-06-03 20:46:57 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:47:24 ERROR Logger1:55 - SCENARIO : filter all products by color - is FAILED
+2022-06-03 20:47:28 INFO  Logger1:44 - SCENARIO : 'filter all products by size' - is started
+2022-06-03 20:47:36 INFO  Logger1:16 - user on home page
+2022-06-03 20:47:36 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:49:00 INFO  Logger1:32 - Test Started
+2022-06-03 20:49:00 INFO  Logger1:73 - Test is Over
+2022-06-03 20:50:27 INFO  Logger1:35 -  on Start
+2022-06-03 20:50:30 INFO  Logger1:32 - Test Started
+2022-06-03 20:50:30 INFO  Logger1:32 - Test Started
+2022-06-03 20:50:31 INFO  Logger1:15 - on Test Start
+2022-06-03 20:50:31 INFO  Logger1:15 - on Test Start
+2022-06-03 20:50:43 INFO  Logger1:44 - SCENARIO : 'verify all images on main page' - is started
+2022-06-03 20:50:43 INFO  Logger1:44 - SCENARIO : 'add wish list from product's heart icon on main page' - is started
+2022-06-03 20:50:57 INFO  Logger1:16 - user on home page
+2022-06-03 20:50:59 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:50:59 INFO  Logger1:16 - user on home page
+2022-06-03 20:51:00 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:51:03 INFO  Logger1:58 - SCENARIO : verify all images on main page - is over
+2022-06-03 20:51:05 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:51:05 INFO  Logger1:15 - on Test Start
+2022-06-03 20:51:08 INFO  Logger1:44 - SCENARIO : 'login website' - is started
+2022-06-03 20:51:34 INFO  Logger1:58 - SCENARIO : add wish list from product's heart icon on main page - is over
+2022-06-03 20:51:34 INFO  Logger1:16 - user on home page
+2022-06-03 20:51:35 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:51:37 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:51:37 INFO  Logger1:15 - on Test Start
+2022-06-03 20:51:44 INFO  Logger1:44 - SCENARIO : 'add wish list from product's heart icon on all products page' - is started
+2022-06-03 20:51:48 INFO  Logger1:21 - user goes to login page
+2022-06-03 20:51:51 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 20:51:52 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 20:51:57 INFO  Logger1:16 - user on home page
+2022-06-03 20:51:58 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:51:59 INFO  Logger1:30 - user click submit button
+2022-06-03 20:52:00 INFO  Logger1:37 - My Account Section is verified after is logged in 
+2022-06-03 20:52:00 INFO  Logger1:58 - SCENARIO : login website - is over
+2022-06-03 20:52:03 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:52:03 INFO  Logger1:15 - on Test Start
+2022-06-03 20:52:09 INFO  Logger1:44 - SCENARIO : 'verify all images and prices on all products page' - is started
+2022-06-03 20:52:24 INFO  Logger1:16 - user on home page
+2022-06-03 20:52:25 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:52:38 INFO  Logger1:58 - SCENARIO : add wish list from product's heart icon on all products page - is over
+2022-06-03 20:52:48 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:52:48 INFO  Logger1:15 - on Test Start
+2022-06-03 20:52:53 INFO  Logger1:44 - SCENARIO : 'add wish list from wish list link on display page' - is started
+2022-06-03 20:53:01 INFO  Logger1:58 - SCENARIO : verify all images and prices on all products page - is over
+2022-06-03 20:53:03 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:53:03 INFO  Logger1:15 - on Test Start
+2022-06-03 20:53:04 INFO  Logger1:16 - user on home page
+2022-06-03 20:53:04 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:53:07 INFO  Logger1:44 - SCENARIO : 'verify dropdown menu on all products' - is started
+2022-06-03 20:53:28 INFO  Logger1:16 - user on home page
+2022-06-03 20:53:28 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:53:57 INFO  Logger1:58 - SCENARIO : add wish list from wish list link on display page - is over
+2022-06-03 20:53:58 ERROR Logger1:55 - SCENARIO : verify dropdown menu on all products - is FAILED
+2022-06-03 20:53:59 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:53:59 INFO  Logger1:15 - on Test Start
+2022-06-03 20:53:59 ERROR Logger1:25 -  on Test Failure
+2022-06-03 20:53:59 INFO  Logger1:15 - on Test Start
+2022-06-03 20:54:02 INFO  Logger1:44 - SCENARIO : 'click heart icon and goes to wish list from "heartbeat" icon on all products page' - is started
+2022-06-03 20:54:03 INFO  Logger1:44 - SCENARIO : 'verify sorting section on all products' - is started
+2022-06-03 20:54:21 INFO  Logger1:16 - user on home page
+2022-06-03 20:54:21 INFO  Logger1:16 - user on home page
+2022-06-03 20:54:22 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:54:22 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:54:57 INFO  Logger1:58 - SCENARIO : verify sorting section on all products - is over
+2022-06-03 20:54:58 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:54:58 INFO  Logger1:15 - on Test Start
+2022-06-03 20:55:02 INFO  Logger1:44 - SCENARIO : 'filter all products by price' - is started
+2022-06-03 20:55:11 INFO  Logger1:58 - SCENARIO : click heart icon and goes to wish list from "heartbeat" icon on all products page - is over
+2022-06-03 20:55:15 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:55:15 INFO  Logger1:15 - on Test Start
+2022-06-03 20:55:15 INFO  Logger1:16 - user on home page
+2022-06-03 20:55:16 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:55:21 INFO  Logger1:44 - SCENARIO : 'remove product from wish list' - is started
+2022-06-03 20:55:41 INFO  Logger1:16 - user on home page
+2022-06-03 20:55:41 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:55:47 INFO  Logger1:58 - SCENARIO : filter all products by price - is over
+2022-06-03 20:55:49 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:55:49 INFO  Logger1:15 - on Test Start
+2022-06-03 20:55:54 INFO  Logger1:44 - SCENARIO : 'filter all products by color' - is started
+2022-06-03 20:56:02 INFO  Logger1:16 - user on home page
+2022-06-03 20:56:03 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:56:17 INFO  Logger1:58 - SCENARIO : remove product from wish list - is over
+2022-06-03 20:56:19 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:56:19 INFO  Logger1:15 - on Test Start
+2022-06-03 20:56:22 INFO  Logger1:44 - SCENARIO : 'search keyword from search field on main page' - is started
+2022-06-03 20:56:34 INFO  Logger1:16 - user on home page
+2022-06-03 20:56:35 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:56:43 INFO  Logger1:58 - SCENARIO : search keyword from search field on main page - is over
+2022-06-03 20:56:45 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:56:45 INFO  Logger1:15 - on Test Start
+2022-06-03 20:56:50 INFO  Logger1:44 - SCENARIO : 'search keyword from search field on all catagories page' - is started
+2022-06-03 20:57:01 INFO  Logger1:16 - user on home page
+2022-06-03 20:57:01 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:57:14 ERROR Logger1:55 - SCENARIO : filter all products by color - is FAILED
+2022-06-03 20:57:15 ERROR Logger1:25 -  on Test Failure
+2022-06-03 20:57:15 INFO  Logger1:15 - on Test Start
+2022-06-03 20:57:19 INFO  Logger1:44 - SCENARIO : 'filter all products by size' - is started
+2022-06-03 20:57:32 INFO  Logger1:16 - user on home page
+2022-06-03 20:57:32 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:57:35 INFO  Logger1:58 - SCENARIO : search keyword from search field on all catagories page - is over
+2022-06-03 20:57:36 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:57:36 INFO  Logger1:15 - on Test Start
+2022-06-03 20:57:41 INFO  Logger1:44 - SCENARIO : 'search keyword from left-bottom search field on all catagories page' - is started
+2022-06-03 20:57:52 INFO  Logger1:16 - user on home page
+2022-06-03 20:57:53 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:58:10 INFO  Logger1:58 - SCENARIO : search keyword from left-bottom search field on all catagories page - is over
+2022-06-03 20:58:11 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:58:11 INFO  Logger1:15 - on Test Start
+2022-06-03 20:58:18 INFO  Logger1:44 - SCENARIO : 'add same product two times to Comparison List' - is started
+2022-06-03 20:58:34 INFO  Logger1:16 - user on home page
+2022-06-03 20:58:35 INFO  Logger1:12 - notice has accepted
+2022-06-03 20:59:54 INFO  Logger1:58 - SCENARIO : filter all products by size - is over
+2022-06-03 20:59:55 INFO  Logger1:20 -  on Test Success
+2022-06-03 20:59:55 INFO  Logger1:15 - on Test Start
+2022-06-03 20:59:59 INFO  Logger1:44 - SCENARIO : 'filter all products by material' - is started
+2022-06-03 21:00:08 INFO  Logger1:58 - SCENARIO : add same product two times to Comparison List - is over
+2022-06-03 21:00:11 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:00:11 INFO  Logger1:15 - on Test Start
+2022-06-03 21:00:12 INFO  Logger1:16 - user on home page
+2022-06-03 21:00:14 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:00:14 INFO  Logger1:44 - SCENARIO : 'add two products to Comparison List' - is started
+2022-06-03 21:00:29 INFO  Logger1:16 - user on home page
+2022-06-03 21:00:30 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:01:50 INFO  Logger1:58 - SCENARIO : filter all products by material - is over
+2022-06-03 21:01:51 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:01:51 INFO  Logger1:15 - on Test Start
+2022-06-03 21:01:57 INFO  Logger1:44 - SCENARIO : 'filter product by gender' - is started
+2022-06-03 21:01:58 INFO  Logger1:58 - SCENARIO : add two products to Comparison List - is over
+2022-06-03 21:02:00 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:02:00 INFO  Logger1:15 - on Test Start
+2022-06-03 21:02:06 INFO  Logger1:44 - SCENARIO : 'remove all products from comparison list' - is started
+2022-06-03 21:02:13 INFO  Logger1:16 - user on home page
+2022-06-03 21:02:15 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:02:27 INFO  Logger1:16 - user on home page
+2022-06-03 21:02:28 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:05:02 INFO  Logger1:58 - SCENARIO : remove all products from comparison list - is over
+2022-06-03 21:05:04 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:05:04 INFO  Logger1:15 - on Test Start
+2022-06-03 21:05:09 INFO  Logger1:44 - SCENARIO : 'add product to cart from main page' - is started
+2022-06-03 21:05:26 INFO  Logger1:16 - user on home page
+2022-06-03 21:05:27 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:05:52 INFO  Logger1:58 - SCENARIO : filter product by gender - is over
+2022-06-03 21:05:54 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:05:54 INFO  Logger1:15 - on Test Start
+2022-06-03 21:05:57 INFO  Logger1:44 - SCENARIO : 'Display random two product and validate on recently viewed section as a registered user' - is started
+2022-06-03 21:06:04 INFO  Logger1:16 - user on home page
+2022-06-03 21:06:04 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:06:10 INFO  Logger1:21 - user goes to login page
+2022-06-03 21:06:11 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 21:06:11 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 21:06:14 ERROR Logger1:55 - SCENARIO : add product to cart from main page - is FAILED
+2022-06-03 21:06:15 INFO  Logger1:30 - user click submit button
+2022-06-03 21:06:16 ERROR Logger1:25 -  on Test Failure
+2022-06-03 21:06:16 INFO  Logger1:15 - on Test Start
+2022-06-03 21:06:19 INFO  Logger1:44 - SCENARIO : 'add product to cart from all catagoeries' - is started
+2022-06-03 21:06:29 INFO  Logger1:16 - user on home page
+2022-06-03 21:06:29 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:06:59 INFO  Logger1:58 - SCENARIO : Display random two product and validate on recently viewed section as a registered user - is over
+2022-06-03 21:07:00 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:07:00 INFO  Logger1:73 - Test is Over
+2022-06-03 21:07:40 INFO  Logger1:58 - SCENARIO : add product to cart from all catagoeries - is over
+2022-06-03 21:07:41 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:07:41 INFO  Logger1:15 - on Test Start
+2022-06-03 21:07:45 INFO  Logger1:44 - SCENARIO : 'add product to cart from product display page' - is started
+2022-06-03 21:07:51 INFO  Logger1:16 - user on home page
+2022-06-03 21:07:51 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:08:51 INFO  Logger1:58 - SCENARIO : add product to cart from product display page - is over
+2022-06-03 21:08:52 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:08:52 INFO  Logger1:15 - on Test Start
+2022-06-03 21:08:55 INFO  Logger1:44 - SCENARIO : 'update random product's count in main cart' - is started
+2022-06-03 21:09:01 INFO  Logger1:16 - user on home page
+2022-06-03 21:09:01 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:09:45 ERROR Logger1:55 - SCENARIO : update random product's count in main cart - is FAILED
+2022-06-03 21:09:46 ERROR Logger1:25 -  on Test Failure
+2022-06-03 21:09:46 INFO  Logger1:15 - on Test Start
+2022-06-03 21:09:49 INFO  Logger1:44 - SCENARIO : 'remove all product in main cart' - is started
+2022-06-03 21:09:57 INFO  Logger1:16 - user on home page
+2022-06-03 21:09:57 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:11:16 INFO  Logger1:58 - SCENARIO : remove all product in main cart - is over
+2022-06-03 21:11:17 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:11:17 INFO  Logger1:15 - on Test Start
+2022-06-03 21:11:20 INFO  Logger1:44 - SCENARIO : 'purchase product from main cart with logged in user' - is started
+2022-06-03 21:11:30 INFO  Logger1:16 - user on home page
+2022-06-03 21:11:30 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:11:37 INFO  Logger1:21 - user goes to login page
+2022-06-03 21:11:37 INFO  Logger1:24 - user writes kursjava@gmail.com
+2022-06-03 21:11:38 INFO  Logger1:27 - user writes kurs.java.123
+2022-06-03 21:11:41 INFO  Logger1:30 - user click submit button
+2022-06-03 21:13:18 INFO  Logger1:58 - SCENARIO : purchase product from main cart with logged in user - is over
+2022-06-03 21:13:19 INFO  Logger1:20 -  on Test Success
+2022-06-03 21:13:19 INFO  Logger1:15 - on Test Start
+2022-06-03 21:13:21 INFO  Logger1:44 - SCENARIO : 'purchase product from mini cart with guest user' - is started
+2022-06-03 21:13:29 INFO  Logger1:16 - user on home page
+2022-06-03 21:13:29 INFO  Logger1:12 - notice has accepted
+2022-06-03 21:14:38 ERROR Logger1:55 - SCENARIO : purchase product from mini cart with guest user - is FAILED
+2022-06-03 21:14:39 ERROR Logger1:25 -  on Test Failure
+2022-06-03 21:14:39 INFO  Logger1:73 - Test is Over
+2022-06-03 21:14:39 INFO  Logger1:40 -  on Finish
