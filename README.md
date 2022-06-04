@@ -1,8 +1,11 @@
 # BrandStore-Project-Cucumber-TestNG-ApachePOI-Log4j
 
+TEST CASES
+
 Address : https://brandstore.e-shopland.ch/
 User  : kursjava@gmail.com
 Password  : kurs.java.123
+
 
 
 *   Are all images defined on the home page?
