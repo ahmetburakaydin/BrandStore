@@ -1,4 +1,4 @@
-# BrandStore-Project-Cucumber-TestNg-ApachePOI-Log4j
+# BrandStore-Project-Cucumber-TestNG-ApachePOI-Log4j
 
 Address : https://brandstore.e-shopland.ch/
 User  : kursjava@gmail.com
