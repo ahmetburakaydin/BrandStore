@@ -10,7 +10,7 @@ Password  : kurs.java.123
 
 *   Are all images defined on the home page?
 *   Is it possible to log in with the correct user and password?
-*    Menu : All Products \n
+*    Menu : All Products    - 
     a.    Do all products have picture and price information?
     b.    Does the categories on the left side dropdown work?
     c.    Is the sorting process on the top right working properly?
