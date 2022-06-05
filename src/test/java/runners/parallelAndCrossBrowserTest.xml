@@ -2,9 +2,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite" parallel="classes">
     <listeners>
-        <listener class-name="hooks.Listener"/>
+        <listener class-name="runners.Listener"/>
     </listeners>
     <test verbose="2" preserve-order="true" name="C:/Users/Esra/IdeaProjects/BrandStore/src/test/java/runners/GroupARunner.java">
+        <parameter name="browserA" value="CHROME"/>
+        <parameter name="browserB" value="EDGE"/>
         <classes>
             <class name="runners.GroupARunner"/>
             <class name="runners.GroupBRunner"/>

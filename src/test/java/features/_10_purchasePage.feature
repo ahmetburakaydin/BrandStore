@@ -1,4 +1,3 @@
-
 @GroupB
 Feature: Purchase Funtionality
 
