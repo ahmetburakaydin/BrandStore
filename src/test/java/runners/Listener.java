@@ -12,6 +12,8 @@ public class Listener implements ITestListener {
 
     @Override
     public void onTestStart(ITestResult result) {
+
+
         getLogger().info("on Test Start");
     }
 

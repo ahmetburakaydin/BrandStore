@@ -7,10 +7,11 @@ import io.cucumber.testng.CucumberOptions;
         features =  {"src/test/java/features"},
         glue = {"stepdefs","hooks"},
 
-        //plugin = { "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "summary"},
-         /*plugin = {  "pretty","html:test-output/cucumber-report.html",
-                    "json:target/cucumber-json.json", "summary" ,
-                    "junit:test-output/XMLreport.xml"}*/
+        plugin = {"pretty",
+                "html:target/cucumber-reports/cucumber.html",
+                "json:target/cucumber-reports/cucumber.json",
+                "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+        },
        tags = "@GroupA or @GroupB"
         //tags = "@GroupA"
         //tags = "@GroupB"

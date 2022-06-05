@@ -13,8 +13,11 @@ import utils.Driver;
         features =  {"src/test/java/features"},
         glue = {"stepdefs"},
 
-        //plugin = { "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "summary"},
-         plugin = {  "pretty","html:test-output/cucumber-report.html" },
+        plugin = {"pretty",
+                "html:target/cucumber-reports/cucumber.html",
+                "json:target/cucumber-reports/cucumber.json",
+                "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+        },
        tags = "@GroupA"
 )
 public class GroupARunner extends AbstractTestNGCucumberTests {

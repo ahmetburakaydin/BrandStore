@@ -9,12 +9,17 @@ import org.testng.annotations.Parameters;
 import utils.Browser;
 import utils.Driver;
 
+
 @CucumberOptions(
         features =  {"src/test/java/features"},
         glue = {"stepdefs"},
 
         //plugin = { "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "summary"},
-         plugin = {  "pretty","html:test-output/cucumber-report.html"},
+        plugin = {"pretty",
+                "html:target/cucumber-reports/cucumber.html",
+                "json:target/cucumber-reports/cucumber.json",
+                "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+        },
        tags = "@GroupB"
 )
 public class GroupBRunner extends AbstractTestNGCucumberTests implements ITestListener {
